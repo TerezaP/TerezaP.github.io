@@ -25,6 +25,9 @@ Od Justin Ryan
 Pokémon GO 
 Od Lukáš Pikaczowsky
 
+Geocaching trochu jinak 
+od Ursula Poznanski
+
 6 multimédia
 https://www.youtube.com/watch?v=ib8DnXDa2iI
 http://www.happyblog.fr/2017/03/09/wanted-chasseurs-de-livres/
