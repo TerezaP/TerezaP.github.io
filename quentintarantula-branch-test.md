@@ -1,0 +1,1 @@
+Zkouška vìtve.... raz, dva tøi... devadesát, šedesát, devadesát... funguje to?! ÈAU DÌCKAAAAA
