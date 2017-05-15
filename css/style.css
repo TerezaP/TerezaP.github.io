@@ -1,6 +1,11 @@
 body {
-	background: #809fff;
+	background: aqua;
+
 }
+
+a { color:darkblue;
+
+}	
 
 .wrapper {
 	margin: 50px auto;
